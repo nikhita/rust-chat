@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Nikhita Raghunath <nikitaraghunath@gmail.com>"]
 
 [dependencies]
+mio = { git = "https://github.com/carllerche/mio" }
